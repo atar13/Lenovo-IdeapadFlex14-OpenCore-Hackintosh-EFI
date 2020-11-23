@@ -25,7 +25,7 @@
 
 ### BIOS Configuration
 
-Enter advanced BIOS mode and disable CFG-lock
+Enter advanced BIOS mode and disable CFG-lock.  \
 Credit to [daliansky](https://github.com/daliansky/Lenovo-Air13-IWL-Hackintosh/blob/master/Advanced/ReadMe.md)
 
 
